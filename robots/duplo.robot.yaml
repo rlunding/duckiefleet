@@ -1,0 +1,8 @@
+owner: lunding
+hostname: duplo
+username: lunding
+description: >
+    Duplo Duckiebot
+log:
+    2018-02-23: >
+        Initalization of the duckiebot.
