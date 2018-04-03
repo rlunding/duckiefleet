@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [340.7339133455361, 0.0, 305.5247500210173, 0.0, 341.347767806562, 208.76503920735848,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: duplo/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2620687115218571, 0.046693749182763714, 0.003372137258108571, -0.0003816071294138276,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [234.2427520751953, 0.0, 299.95737881960304, 0.0, 0.0, 282.817626953125, 197.50866013702762,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3

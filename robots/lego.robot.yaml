@@ -1,0 +1,8 @@
+owner: lunding
+hostname: lego
+username: lunding
+description: >
+    Lego Duckiebot
+log:
+    2018-03-04: >
+        Initalization of the duckiebot.
